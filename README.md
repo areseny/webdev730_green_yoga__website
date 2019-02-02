@@ -1,7 +1,7 @@
 # Green Yoga (https://www.greenyoga.com.au)
 
 - A front-end React JS application for Green Park's yoga business.
-- The repository for the back-end (built on Node.js / Express.js) can be found at: https://github.com/shouheiyamauchi/green-yoga-server
+- The repository for the back-end (built on Node.js / Express.js) can be found at: https://github.com/webdev730/webdev730_green_youga_server
 ------
 ### Project Brief
 
